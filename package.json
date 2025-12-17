@@ -1,0 +1,19 @@
+{
+  "name": "roblox-ranker-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for managing Roblox group ranks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",  
+    "body-parser": "^1.20.2" 
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
